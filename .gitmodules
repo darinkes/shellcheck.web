@@ -1,0 +1,9 @@
+[submodule "shellcheck.net"]
+	path = shellcheck.net
+	url = https://github.com/koalaman/shellcheck.net
+[submodule "ace"]
+	path = ace
+	url = https://github.com/koalaman/ace
+[submodule "shellcheck"]
+	path = shellcheck
+	url = https://github.com/koalaman/shellcheck
