@@ -3,7 +3,7 @@
 	url = https://github.com/koalaman/shellcheck.net
 [submodule "ace"]
 	path = ace
-	url = https://github.com/koalaman/ace
+	url = https://github.com/darinkes/ace
 [submodule "shellcheck"]
 	path = shellcheck
 	url = https://github.com/koalaman/shellcheck
