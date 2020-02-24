@@ -9,7 +9,6 @@ $ docker run --rm -p 8000:80 shellcheck.web:latest
 
 ## Use Pre-build Container
 ```bash
-$ docker pull darinkes/shellcheck.web
 $ docker run --rm -p 8000:80 darinkes/shellcheck.web:latest
 ```
 
